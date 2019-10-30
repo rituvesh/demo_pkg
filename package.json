@@ -1,4 +1,14 @@
 {
   "name": "@rituvesh/demo_pkg",
-  "version": "1.0.1"
+  "version": "1.0.3",
+  "description": "Demo package",
+  "license": "MIT",
+  "repository": "rituvesh/demo_pkg",
+  "main": "index.js",
+  "keywords": [
+    "demo_pkg",
+    "npm",
+    "package",
+    "rituvesh"
+  ]
 }
