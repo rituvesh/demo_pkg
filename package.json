@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Demo package",
   "license": "MIT",
-  "repository": "rituvesh/demo_pkg",
+  "repository": {"url": "git://github.com/rituvesh/demo_pkg.git"},
   "main": "index.js",
   "keywords": [
     "demo_pkg",
